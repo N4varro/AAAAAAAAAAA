@@ -1,2 +1,2 @@
 # AAAAAAAAAAA
-To moje pierwsze gitowanie
+Jednak to moje drugie 
